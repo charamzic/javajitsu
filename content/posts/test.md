@@ -3,6 +3,9 @@ title = 'Test'
 date = 2024-02-17T07:55:40+01:00
 tags = ['test']
 draft = false
+ShowToc = true
+TocOpen = false
+ShowReadingTime = true
 +++
 
 ## Felt cute, might delete later

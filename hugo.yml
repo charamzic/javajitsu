@@ -35,7 +35,7 @@ languages:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Učím se programovat a tvořím o tom obsah na tento blog."
-  author: Jan Charamza
+  author: Honza
 
   homeInfoParams:
     Title: "Učíš se programovat?"
