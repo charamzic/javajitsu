@@ -1,0 +1,55 @@
+baseURL: 'https://charamzic.github.io/javajitsu/'
+languageCode: 'cs-CZ'
+title: 'Javajitsu.cz'
+paginate: 5
+theme: 'PaperMod'
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts"]
+# googleAnalytics: UA-123-45
+
+languages:
+  en:
+    languageName: "Czech"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Témata
+          url: tags/
+          weight: 10
+
+params:
+  homeInfoParams:
+    Title: "Učíš se programovat?"
+    Content: >
+      **Zdravím** 👋 
+
+      - Jsem Honza. Rekvalifikoval jsem se do IT a tady sdílím jak se zrovna daří.
+
+      - Kromě **Javy** a věcí okolo ní, tu najdeš i mé pokusy o práci s **Vimem** a v terminálu obecně.
+
+      - Občas cvičím. A taky jsem po letech oprášil Wowko.
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/charamzic"
+    - name: LinkedIn
+      title: Join discord community
+      url: "https://www.linkedin.com/in/charamzic/"
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
