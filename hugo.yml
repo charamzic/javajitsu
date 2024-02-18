@@ -14,8 +14,12 @@ pygmentsUseClasses: true
 mainsections: ["posts"]
 # googleAnalytics: UA-123-45
 
+defaultContentLanguage: cs
 languages:
-  en:
+  cs:
+    disabled: false
+    languageCode: cs-CZ
+    languageDirection: ltr
     languageName: "Czech"
     weight: 1
     taxonomies:
@@ -29,6 +33,10 @@ languages:
           weight: 10
 
 params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Učím se programovat a tvořím o tom obsah na tento blog."
+  author: Jan Charamza
+
   homeInfoParams:
     Title: "Učíš se programovat?"
     Content: >
