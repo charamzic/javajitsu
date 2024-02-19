@@ -21,6 +21,8 @@ languages:
     languageCode: cs-CZ
     languageDirection: ltr
     languageName: "Czech"
+    params:
+      reading_speed: 200
     weight: 1
     taxonomies:
       category: categories
@@ -30,6 +32,9 @@ languages:
       main:
         - name: Témata
           url: tags/
+          weight: 10
+        - name: Kategorie
+          url: categories/
           weight: 10
 
 params:
