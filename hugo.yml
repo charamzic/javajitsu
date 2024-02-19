@@ -58,6 +58,9 @@ params:
     - name: youtube
       url: "https://www.youtube.com/channel/UCfpljsXt-fiBVX8zOBiXoRA"
 
+  showShareButtons: true
+  shareButtons: ["linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"]
+  
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
