@@ -8,7 +8,7 @@ ShowReadingTime: true
 
 Na to, abyste spustili svůj první Java program, potřebujete mít nainstalovanou Javu. Je více způsobů, jak to udělat. 
 Protože se do budoucna může stát, že budete chtít/potřebovat více verzí Javy a k tomu třeba ještě Maven (o tom potom), 
-doporučuji rovnou nainstalovat [SKDMAN!](https://sdkman.io/). Usnadní vám do budoucna život. 
+doporučuji rovnou nainstalovat [SKDMAN!](https://sdkman.io/). Usnadní vám život. 
 
 ### Instalace SDKMAN! (Mac / Linux) 
 
