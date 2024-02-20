@@ -4,13 +4,26 @@ date: 2024-02-19T19:51:52+01:00
 tags: ['java', 'junior']
 categories: ['Programování']
 ShowReadingTime: true
+cover:
+  image: images/sdk-man.png
+  caption: "Zdroj: https://sdkman.io/"
 ---
 
 Na to, abyste spustili svůj první Java program, potřebujete mít nainstalovanou Javu. Je více způsobů, jak to udělat. 
 Protože se do budoucna může stát, že budete chtít/potřebovat více verzí Javy a k tomu třeba ještě Maven (o tom potom), 
 doporučuji rovnou nainstalovat [SKDMAN!](https://sdkman.io/). Usnadní vám život. 
 
+SKDMAN! je v v podstatě takový správce JDK a SDK kitů. Používám ho, protože mi to přijde příjemnější, než abych pokaždé, 
+když chci konkrétní verzi Javy, nebo třeba vyzkoušet Graal Cloud Native, musel lézt do vyhledávače a shánět se po nějakém 
+stáhnutelném souboru. Nemluvě o následné instalaci a řešení cesty.
+
+Navíc pak velmi snadno přepínáte mezi verzemi, aniž byste museli řešit, kam jste si co nainstalovali, co vlastně máte k dispozici a podobně.
+
 ### Instalace SDKMAN! (Mac / Linux) 
+
+Instalace na Windows bude buďto součástí videa, které brzy udělám, nebo v samostatném článku. 
+
+### Postup
 
 Symbol `$` z následujících příkladů do terminálu nekopírujte. Pouze to, co následuje po něm.
 
