@@ -72,3 +72,7 @@ Using java version 21.0.2-tem
 ```
 
 Mimochodem, tímhle jste nainstalovali komplet JDK (Java development kit), takže máte vše potřebné na běh i vývoj Java aplikací.
+
+---
+
+{{< youtube a4gywwELs1U  >}}
