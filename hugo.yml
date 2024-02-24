@@ -62,6 +62,8 @@ params:
       url: "https://www.linkedin.com/in/charamzic/"
     - name: youtube
       url: "https://www.youtube.com/channel/UCfpljsXt-fiBVX8zOBiXoRA"
+    - name: kofi
+      url: "https://ko-fi.com/javajitsu"
 
   showShareButtons: true
   shareButtons: ["linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"]
