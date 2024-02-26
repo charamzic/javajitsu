@@ -35,7 +35,10 @@ languages:
           weight: 10
         - name: Kategorie
           url: categories/
-          weight: 10
+          weight: 20
+        - name: Vyhledat 
+          url: search/
+          weight: 30
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -67,9 +70,18 @@ params:
 
   showShareButtons: true
   shareButtons: ["linkedin", "twitter", "reddit", "facebook", "whatsapp", "telegram"]
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
   
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+

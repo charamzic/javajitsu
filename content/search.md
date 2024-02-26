@@ -1,5 +1,5 @@
 ---
-title: "Search"
-placeholder: Obsahu tu není mnoho, ale zkusme...
+title: "Vyhledat"
+placeholder: Zadej, co hledáš, např. Java...
 layout: "search"
 ---
