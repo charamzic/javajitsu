@@ -2,8 +2,10 @@
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: {{ .Date }}
 draft: true
-tags: ['']
-ShowToc: true
+temata: ['']
+kategorie: ['']
+serie: ['']
+ShowToc: false
 TocOpen: false
 ShowReadingTime: true
 ---
