@@ -25,20 +25,23 @@ languages:
       reading_speed: 200
     weight: 1
     taxonomies:
-      category: categories
-      tag: tags
-      series: series
+      category: kategorie
+      tag: temata
+      series: serie
     menu:
       main:
         - name: Témata
-          url: tags/
+          url: temata/
           weight: 10
         - name: Kategorie
-          url: categories/
+          url: kategorie/
           weight: 20
+        - name: Série
+          url: serie/
+          weight: 30
         - name: Vyhledat 
           url: search/
-          weight: 30
+          weight: 40
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.

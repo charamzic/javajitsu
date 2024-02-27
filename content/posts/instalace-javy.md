@@ -1,9 +1,9 @@
 ---
 title: 'Instalace Javy'
 date: 2024-02-19T19:51:52+01:00
-tags: ['java', 'junior']
-categories: ['Programování']
-series: ['Java padawan']
+temata: ['java', 'junior']
+kategorie: ['Programování']
+serie: ['Java padawan']
 ShowReadingTime: true
 cover:
   image: images/sdk-man.png
