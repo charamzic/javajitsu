@@ -6,7 +6,7 @@ kategorie: ['Programování']
 serie: ['Java padawan']
 ShowReadingTime: true
 cover:
-  image: images/sdk-man.png
+  image: sdk-man.png
   caption: "Zdroj: https://sdkman.io/"
 ---
 
