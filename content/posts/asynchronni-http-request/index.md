@@ -9,7 +9,7 @@ TocOpen: false
 ShowReadingTime: true
 ---
 
-Minule jsem psal o [Synchronním http requestu](./http-request-bez-fw) a dnes to zkusím 
+Minule jsem psal o [Synchronním http requestu](http-request-bez-fw) a dnes to zkusím 
 trochu pimpnout a poslat víc požadavků najednou. Použitá Java knihovna je stejná, přístup je trochu jiný. 
 
 Střídám výrazy request a požadavek. Omlouvám se za to, píšu jak mi 
