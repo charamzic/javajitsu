@@ -9,6 +9,11 @@ TocOpen: false
 ShowReadingTime: true
 ---
 
+Předně, kdo ocení spíš video, tak tu. Na jeho konci je pár věcí navíc, které v tomto článku nezmiňuji. Například preview 
+feature Javy 21 a uložení volání programu do aliasu.
+
+{{< youtube BxF0qtePwRA >}}
+
 Minule jsem psal o [Synchronním http requestu](../http-request-bez-fw) a dnes to zkusím 
 trochu pimpnout a poslat víc požadavků najednou. Použitá Java knihovna je stejná, přístup je trochu jiný. 
 
