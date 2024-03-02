@@ -14,6 +14,8 @@ feature Javy 21 a uložení volání programu do aliasu.
 
 {{< youtube BxF0qtePwRA >}}
 
+---
+
 Minule jsem psal o [Synchronním http requestu](../http-request-bez-fw) a dnes to zkusím 
 trochu pimpnout a poslat víc požadavků najednou. Použitá Java knihovna je stejná, přístup je trochu jiný. 
 
