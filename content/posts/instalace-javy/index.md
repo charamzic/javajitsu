@@ -5,7 +5,6 @@ temata: ['java', 'junior']
 kategorie: ['Programování']
 serie: ['Java padawan']
 ShowReadingTime: true
-weight: 1
 cover:
   image: sdk-man.png
   caption: "Zdroj: https://sdkman.io/"
