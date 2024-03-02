@@ -139,6 +139,6 @@ A toto je výsledek s voláním tří požadavků:
 
 Nesnažil jsem se tentokrát vycucnout jen tu aktivitu, takže je tu celé tělo odpovědi. 
 Pokud vás zajímá, jak pomocí regexu získat pouze aktivitu a nic víc, koukněte na 
-[příspěvek o synchronním requestu](./http-request-bez-fw).
+[příspěvek o synchronním requestu](../http-request-bez-fw).
 
 Tak zas příště!

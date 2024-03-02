@@ -128,4 +128,4 @@ Spouštěl jsem běžně příkazem `java <class name>`.
 
 Pokud chcete, aby byl program ukecanější a viděli jste, co se za běhu děje, můžete zkusit příkaz `java -verbose <class name>`. 
 
-Volně navazující randori příspěvek je [Asynchronní Http Request](./asynchronni-http-request).
+Volně navazující randori příspěvek je [Asynchronní Http Request](../asynchronni-http-request).
