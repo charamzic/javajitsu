@@ -12,7 +12,7 @@ ShowReadingTime: true
 Předně, kdo ocení spíš video, tak tu. Na jeho konci je pár věcí navíc, které v tomto článku nezmiňuji. Například preview 
 feature Javy 21 a uložení volání programu do aliasu.
 
-{{< youtube rk0KAIJrhTY >}}
+{{< youtube xe8wA26a9H8 >}}
 
 ---
 
