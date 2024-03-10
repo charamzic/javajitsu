@@ -155,3 +155,14 @@ No a plán na příště je takový, že pustím tyhle dva mini programy v docke
 docker compose a vůbec práci s tímhle nástrojem.
 
 Jako vždy se video neobešlo bez menších debuggů a zmatků ve Vimu. 
+
+#### Vim moves
+
+A víte co? Hodím na konec článku vždy příkazy, které jsem během natáčení neznal a pak si je dohledal. Např. během psaní 
+tohoto programu tam kňourám, že nevím, jak skočit na matching pair závorek. Takže jsem si to našel a teď už to snad nezapomenu. 
+Zároveň jsem se i podíval, jak skočit kurzorem zpět na místo, kde byl předtím.
+
+```
+    %   -> skočí na matching pair
+    `'  -> skočí na předešlou pozici kurzoru (to jsem si přemapoval pouze na ``, protože na české klávesnici je tahle kombinace na pěst
+```
